@@ -1,5 +1,3 @@
-package tictactoe
-
 import java.lang.NumberFormatException
 
 var mutList3D = mutableListOf<MutableList<Char>>()
